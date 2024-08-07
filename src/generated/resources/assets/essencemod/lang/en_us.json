@@ -1,0 +1,31 @@
+{
+  "item.essencemod.raw_essence": "Raw Essence",
+  "item.essencemod.condensed_essence": "Condensed Essence",
+  "item.essencemod.essence_helmet": "Essence Helmet",
+  "item.essencemod.essence_chestplate": "Essence Chestplate",
+  "item.essencemod.essence_leggings": "Essence Leggings",
+  "item.essencemod.essence_boots": "Essence Boots",
+  "item.essencemod.essence_sword": "Essence Sword",
+  "item.essencemod.essence_pickaxe": "Essence Pickaxe",
+  "item.essencemod.essence_axe": "Essence Axe",
+  "item.essencemod.essence_shovel": "Essence Shovel",
+  "item.essencemod.essence_hoe": "Essence Hoe",
+
+  "block.essencemod.essence_ore": "Essence Ore",
+  "block.essencemod.block_of_essence": "Block Of Essence",
+
+  "item.essencemod.pure_essence": "Pure Essence",
+  "item.essencemod.pure_condensed_essence": "Pure Condensed Essence",
+  "item.essencemod.pure_essence_helmet": "Pure Essence Helmet",
+  "item.essencemod.pure_essence_chestplate": "Pure Essence Chestplate",
+  "item.essencemod.pure_essence_leggings": "Pure Essence Leggings",
+  "item.essencemod.pure_essence_boots": "Pure Essence Boots",
+  "item.essencemod.pure_essence_sword": "Pure Essence Sword",
+  "item.essencemod.pure_essence_pickaxe": "Pure Essence Pickaxe",
+  "item.essencemod.pure_essence_axe": "Pure Essence Axe",
+  "item.essencemod.pure_essence_shovel": "Pure Essence Shovel",
+  "item.essencemod.pure_essence_hoe": "Pure Essence Hoe",
+
+
+  "itemGroup.essence_mod_tab": "Essence Mod"
+}

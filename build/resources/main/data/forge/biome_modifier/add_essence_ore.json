@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "features": "essencemod:overworld_essence_ore_placed",
+  "biomes": "#minecraft:is_overworld",
+  "step": "underground_ores"
+}

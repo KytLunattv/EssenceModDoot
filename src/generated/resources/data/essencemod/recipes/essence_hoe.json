@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "essencemod:condensed_essence"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "EE ",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "essencemod:essence_hoe"
+  },
+  "show_notification": true
+}
